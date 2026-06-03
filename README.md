@@ -34,7 +34,3 @@ The codebase is designed around an intuitive and scannable interface, focusing s
 
 ### Professional Applicability
 In industrial environments, a well-optimized static website is highly applicable for enterprise landing pages, documentation platforms, portfolio displays, and corporate marketing interfaces due to its near-instant load speeds and tight security architecture. Because static pages lack a heavy database execution layer, they offer a minimal attack surface and near-zero server-side latency. For software engineers, it functions as a live portfolio hub that directly demonstrates frontend design patterns, mastery over clean directory structuring, semantic coding standards, and precise cloud deployment management.
-
-LIVE DEPLOYMENT
-- **Live URL:** [https://your-portfolio-link.vercel.app](https://your-portfolio-link.vercel.app)
-- **Deployment Platform:** Vercel
