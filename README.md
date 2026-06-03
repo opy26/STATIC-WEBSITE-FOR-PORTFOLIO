@@ -35,11 +35,10 @@ The codebase is designed around an intuitive and scannable interface, focusing s
 ### Professional Applicability
 In industrial environments, a well-optimized static website is highly applicable for enterprise landing pages, documentation platforms, portfolio displays, and corporate marketing interfaces due to its near-instant load speeds and tight security architecture. Because static pages lack a heavy database execution layer, they offer a minimal attack surface and near-zero server-side latency. For software engineers, it functions as a live portfolio hub that directly demonstrates frontend design patterns, mastery over clean directory structuring, semantic coding standards, and precise cloud deployment management.
 
-###OUTPUT
-<img width="1902" height="897" alt="Image" src="https://github.com/user-attachments/assets/50e6cc72-f331-4a44-beb8-907dfd5fbeb6" />
+###OUTPUT<img width="1902" height="897" alt="Image" src="https://github.com/user-attachments/assets/50e6cc72-f331-4a44-beb8-907dfd5fbeb6" />
 
 <img width="1895" height="897" alt="Image" src="https://github.com/user-attachments/assets/7a1d8249-d2df-40dd-8adc-0bb420dba5c2" />
 
-<img width="1893" height="904" alt="Image" src="https://github.com/user-attachments/assets/12be897b-e41a-46aa-9f66-de5c571efee5" />
+<img width="1895" height="901" alt="Image" src="https://github.com/user-attachments/assets/99eb8a88-4967-4e91-8683-214d13f0bc5e" />
 
 <img width="1893" height="904" alt="Image" src="https://github.com/user-attachments/assets/5bd6e371-b45a-45e2-97cf-16cef2ffe59c" />
